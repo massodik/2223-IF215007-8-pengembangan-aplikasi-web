@@ -1,0 +1,49 @@
+body, html {
+    background-color: #f5f5f5;
+    color: rgba(0, 0, 0, 0.8);
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.875rem;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+#navigasi-pencarian {
+    background-image: linear-gradient(to bottom,#f53d2d, #fe6532);
+    color: rgba(255, 255, 255, 0.8);
+    padding: 8px 8px 8px 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+#navigasi-pencarian a {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+}
+
+#navigasi-pencarian a:hover {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+#navigasi-pencarian-link-atas {
+    display: flex;
+    flex-direction: row;
+}
+
+#navigasi-pencarian-bawah {
+    display: flex;
+    flex-direction: row;
+}
+
+@media only screen and (max-width: 600px) {
+    #navigasi-pencarian-link-atas, 
+    #navigasi-pencarian-bawah-tengah-bawah,
+    #navigasi-pencarian-bawah-logo-shopee {
+        display: none;
+    }
+
+}
+
