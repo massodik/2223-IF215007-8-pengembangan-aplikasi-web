@@ -16,11 +16,11 @@
 
 ## **POSTMAN**
 
-
 ## **MY SQL INSTALLATION**
 ![image](https://user-images.githubusercontent.com/72060370/208365955-5f8a9145-5e82-4996-8692-b08a487c2541.png)
 
 ## **DB CONNECT**
+![image](https://user-images.githubusercontent.com/72060370/208368970-a4b054f8-4dc0-4534-a130-f33093a148b7.png)
 
 ## **MOBAXTERM**
 ![image](https://user-images.githubusercontent.com/72060370/208366885-18a8e290-aa6c-4af2-b846-25529619324d.png)
