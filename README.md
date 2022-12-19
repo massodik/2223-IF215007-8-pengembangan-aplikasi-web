@@ -28,6 +28,7 @@
 ## **NODE JS & NPM INSTALLATION**
 ![image](https://user-images.githubusercontent.com/72060370/208364328-a0c80c72-374b-4713-bcff-8a6f8be0ed4e.png)
 ![image](https://user-images.githubusercontent.com/72060370/208364355-d8a4d9d5-a7de-4694-b1ea-43f81c13ead6.png)
+![versi](https://user-images.githubusercontent.com/72060370/208371178-a26e7342-8340-47df-9f64-dea74aea6827.png)
 
 ## **LINUX SERVER OPERATION**
 ![image](https://user-images.githubusercontent.com/72060370/208367143-02292bd6-2a49-4a69-ab66-5863dc8c8273.png)
