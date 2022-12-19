@@ -65,3 +65,5 @@ Panduan cPanel yang terakhir adalah melihat log eror dari cPanel. Sama seperti d
 ![image](https://user-images.githubusercontent.com/72060370/208373977-19fbde2a-1fad-4641-81e1-7fa78c9fae44.png)
 
 # CLO 0212
+## **HTML RESPONSIVE (MEDIA QUERY AND FLEXBOX**
+ADA DI FOLDER
