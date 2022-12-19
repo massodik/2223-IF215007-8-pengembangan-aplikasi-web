@@ -15,6 +15,7 @@
 ![image](https://user-images.githubusercontent.com/72060370/208365803-19b4fe02-bbed-4ae9-ac5d-071690e02112.png)
 
 ## **POSTMAN**
+![sp-test-signup](https://user-images.githubusercontent.com/72060370/208373139-fc4edc32-5d7c-4ec0-b79c-a24562015c23.png)
 
 ## **MY SQL INSTALLATION**
 ![image](https://user-images.githubusercontent.com/72060370/208365955-5f8a9145-5e82-4996-8692-b08a487c2541.png)
