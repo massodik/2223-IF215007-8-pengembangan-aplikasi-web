@@ -22,6 +22,8 @@
 ## **MOBAXTERM**
 
 ## **NODE JS & NPM INSTALLATION**
+![image](https://user-images.githubusercontent.com/72060370/208364328-a0c80c72-374b-4713-bcff-8a6f8be0ed4e.png)
+![image](https://user-images.githubusercontent.com/72060370/208364355-d8a4d9d5-a7de-4694-b1ea-43f81c13ead6.png)
 
 ## **LINUX SERVER OPERATION**
 
