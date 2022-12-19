@@ -36,9 +36,32 @@
 
 
 ## **APACHE SERVER INSTALLATION**
+![image](https://user-images.githubusercontent.com/72060370/208373581-4e8a69de-72ba-4cff-82ba-787cf9be307e.png)
 
 ## **CPANEL**
+![cpanel_zone](https://user-images.githubusercontent.com/72060370/208374746-f29ba895-5aa0-44a9-ae23-b73868b08dd2.jpg)
+
+Tata Cara Manage CPanel
+* Menginstal Aplikasi di cPanel
+Setelah mempunyai akun hosting, kamu membutuhkan aplikasi web yang bisa digunakan untuk mengelola konten di website
+* Menambahkan Subdomain, Parked Domain, dan Add-on Domain
+Ketika mendaftarkan sebuah akun hosting, kamu akan mendapatkan satu domain utama atau primary domain.
+* Cara Mengunggah Files di cPanel
+Cara menggunakan cPanel selanjutnya adalah untuk membantumu mengunggah file ke servermu melalui dua akses berbeda:
+
+File Manager – tool ini memungkinkanmu mengunggah file langsung ke website-mu.
+FTP Accounts – bisa menghubungkanmu dengan server web melalui program yang disebut dengan FTP Program.
+Biasanya, File Manager digunakan untuk mengunggah beberapa file di waktu yang bersamaan dan memindahkan file yang ada di server website-mu. File Manager juga mudah digunakan dan tidak memerlukan program tambahan. Semua bisa dilakukan di browser-mu. Tapi, kalau kamu ingin mengunggah file berukuran besar, sebaiknya kamu menggunakan FTP Program.
+* Membuat Akun Email dengan Akhiran Nama Domain
+Setelah mempunyai website, kamu bisa membuat nama email dengan akhiran domain, misalnya jono@cikenblekpaper.com.
+* Meningkatkan Keamanan Website dan cPanel
+Selain menginstal aplikasi, menambahkan domain, mengunggah file, serta membuat email menggunakan akhiran nama domain, kamu juga bisa meningkatkan keamanan website-mu melalui cPanel.
+* Membuat dan Mengelola Database di cPanel
+Databases adalah tool yang membantu menyimpan dan mengakses data. Jika kamu menggunakan tool seperti WordPress, semua data di website-mu akan disimpan di sebuah basis data.
+* Melihat Error Log Website di cPanel
+Panduan cPanel yang terakhir adalah melihat log eror dari cPanel. Sama seperti database, error log adalah fitur yang mungkin akan jarang kamu gunakan. Namun, ketika kamu menemukan masalah pada website-mu, error log server adalah salah satu tool yang bisa membantumu mencari tau apa yang sedang terjadi. Jika ingin mengakses log eror sebuah server, kamu perlu masuk ke Errors yang ada di section Metrics.
 
 ## **DOMAIN REGISTRATION**
+![image](https://user-images.githubusercontent.com/72060370/208373977-19fbde2a-1fad-4641-81e1-7fa78c9fae44.png)
 
 # CLO 0212
