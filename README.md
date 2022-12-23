@@ -66,4 +66,26 @@ Panduan cPanel yang terakhir adalah melihat log eror dari cPanel. Sama seperti d
 
 # CLO 0212
 ## **HTML RESPONSIVE (MEDIA QUERY AND FLEXBOX**
-ADA DI FOLDER
+![image](https://user-images.githubusercontent.com/72060370/209253308-3f1b2d38-0ae9-43b1-93ab-0b249e6c93c6.png)
+
+## **JAVASCRIPT DATA TRANSFORMATION**
+![Screenshot (323)](https://user-images.githubusercontent.com/72060370/209253944-015d113c-4493-4d4d-a7eb-409af1fb4c46.png)
+
+## **BROWSER API, LOCAL STORAGE AND ELEMENT MANIPULATION**
+![Screenshot (325)](https://user-images.githubusercontent.com/72060370/209254292-b1676bee-8e7a-4525-808c-d6ef33b3ad43.png)
+![image](https://user-images.githubusercontent.com/72060370/209254364-e70f923e-fc93-467e-8be7-f0ac7e52c803.png)
+![image](https://user-images.githubusercontent.com/72060370/209254393-63bbfd8c-0728-4dae-b8c2-43e7ec41d7ea.png)
+![image](https://user-images.githubusercontent.com/72060370/209254405-84734a49-c8a3-4fe5-a917-c7138bea0aa8.png)
+
+## **HTTP GET & POST USING FROM ACTION AND FETCH API**
+![image](https://user-images.githubusercontent.com/72060370/209255251-d5b690cd-d380-4891-8e8c-281ab9eba1ed.png)
+
+## **WEB SERVICE**
+![image](https://user-images.githubusercontent.com/72060370/209255568-8445e028-482c-4a2f-a6a2-41d919d8bc55.png)
+
+## **DYNAMIC WEB PAGE**
+
+## **WEB SERVICE**
+
+## **SINGLE PAGE APP WITH REACT**
+![image](https://user-images.githubusercontent.com/72060370/209255776-e6d1bde9-00b7-4612-a910-1691a6283fe6.png)
