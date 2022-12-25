@@ -89,3 +89,15 @@ Panduan cPanel yang terakhir adalah melihat log eror dari cPanel. Sama seperti d
 
 ## **SINGLE PAGE APP WITH REACT**
 ![image](https://user-images.githubusercontent.com/72060370/209255776-e6d1bde9-00b7-4612-a910-1691a6283fe6.png)
+
+# CLO 0212
+## **IMPLEMENTATION BOOTSTRAP**
+![image](https://user-images.githubusercontent.com/72060370/209471210-820427b7-4364-4178-9cda-e6206dcd34c0.png)
+![image](https://user-images.githubusercontent.com/72060370/209471233-8e114c93-00db-4e1c-b7cc-fe8e827c0d6f.png)
+
+## **PAGE APP REACT**
+![image](https://user-images.githubusercontent.com/72060370/209471286-93427f19-145b-43d8-bd1f-2074683d02ee.png)
+
+## **WORDPRESS**
+![image](https://user-images.githubusercontent.com/72060370/209471301-e376d92c-0684-408f-beb0-0728ee0ab0ef.png)
+
