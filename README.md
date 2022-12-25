@@ -100,4 +100,6 @@ Panduan cPanel yang terakhir adalah melihat log eror dari cPanel. Sama seperti d
 
 ## **WORDPRESS**
 ![image](https://user-images.githubusercontent.com/72060370/209471301-e376d92c-0684-408f-beb0-0728ee0ab0ef.png)
+![image](https://user-images.githubusercontent.com/72060370/209471446-76607244-4df0-403c-8c51-308ab6bba59d.png)
+![Screenshot (295)](https://user-images.githubusercontent.com/72060370/209471457-087e1ac0-46e6-4a5a-be6e-93920f11ad3a.png)
 
